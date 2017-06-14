@@ -1,0 +1,1 @@
+list = ["Tak", "Nie", "Nie wiem", "Hokus pokus, zapach lata, pora odejść z tego świata."]
